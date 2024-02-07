@@ -1,0 +1,16 @@
+{
+  "clientId": "", 
+  "token": "",
+
+  "DestekKanalıKategorisi": "",
+  "Kategori1": "Öneri",
+  "Kategori2": "Şikayet",
+  "Kategori3": "Oda Açtırma",
+  "Kategori4": "Oyun İçi Destek",
+  "Kategori5": "Diğer",
+
+  "YetkiliRolü": "",
+  
+  "LogKanalı": "",
+  "DestekKanalı": ""
+}
